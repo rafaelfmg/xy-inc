@@ -36,3 +36,5 @@ Sistema desenvolvido para criar um novo “Modelo” e gerar um recurso REST par
   Para deletar uma determinada instancia do modelo, usar a url:
   
   DELETE [http://localhost:8080/{modelo}/{id}] (http://localhost:8080/{modelo}/{id})
+
+  Na raiz do projeto se encontra o documento Arquitetura.pdf com uma breve descrição da arquitetura proposta!
