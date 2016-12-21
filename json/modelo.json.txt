@@ -1,0 +1,20 @@
+{
+    "model" : "produto",
+    "fields" : [ 
+        {
+            "name" : "nome",
+            "type" : "String",
+            "required" : true
+        }, 
+        {
+            "name" : "preco",
+            "type" : "Double",
+            "required" : true
+        }, 
+        {
+            "name" : "codigo",
+            "type" : "Integer",
+            "required" : false
+        }
+    ]
+}

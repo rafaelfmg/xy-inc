@@ -1,0 +1,5 @@
+{
+    "nome" : "teste produto",
+    "preco" : 22.89,
+    "codigo" : 8292829
+}
